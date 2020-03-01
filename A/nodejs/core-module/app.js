@@ -1,18 +1,3 @@
-/*var fs = require('fs');
-//fs.writeFileSync('data.txt', 'sdhfsdhf sfs f');
-var data = fs.readFileSync('data.txt');
-console.log(data.toString());
-*/
-
-/*var path = require('path');
-
-var root = "C:/windows/program_files/vss/shsg\sd\dd\\\dd//df/abc.js";
-
-console.log(path.dirname(root));
-console.log(path.extname(root));
-console.log(path.normalize(root));
-*/
-
 
 var http = require('http');
 
